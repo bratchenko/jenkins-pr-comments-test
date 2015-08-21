@@ -1,2 +1,2 @@
-Test Pull Request plugins
-=========================
+Test Pull Request plugin
+========================

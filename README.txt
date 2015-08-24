@@ -1,4 +1,3 @@
-
 Test Pull Request plugin
 ========================
 
